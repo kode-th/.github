@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kode-th/.github/main/assets/kode-th-mark-light.svg">
-  <img src="https://raw.githubusercontent.com/kode-th/.github/main/assets/kode-th-mark.svg" alt="kode.th" width="72" height="72">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kode-th/brand/main/logo/kode-th-mark-light.svg">
+  <img src="https://raw.githubusercontent.com/kode-th/brand/main/logo/kode-th-mark.svg" alt="kode.th" width="72" height="72">
 </picture>
 
 # kode.th
